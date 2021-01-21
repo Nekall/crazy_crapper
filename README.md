@@ -50,4 +50,7 @@ a = [
 ]
 
 
+
+
+
 #Un repo GitHub propre qui contient un fichier de scrapping pour chacun des trois exercices (dans le dossier lib), des tests pour chacun des scrappeurs (dossier #spec), un Gemfile et un README qui explique le tout.
